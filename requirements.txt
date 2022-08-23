@@ -1,0 +1,11 @@
+numpy==12.2.4
+pandas==1.4.2
+matplotlib==3.5.2
+seaborn==0.11.2
+scikit-learn==1.1.1
+nptyping==2.1.1
+tensorflow==2.9.1
+# tensorflow-macos==2.9.2  # M1macの場合はこちらを使用する
+pydot==1.4.2
+graphviz==0.20
+rich==12.5.1
